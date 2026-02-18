@@ -1,0 +1,24 @@
+- What is docker
+- container runtimes
+- OCI and CRI runtimes 
+- Docker Architecture
+- Docker images
+- Dockerfile
+- INSTRUCTIONS
+- Build docker image 
+- image layers
+- build cache
+- Multistage builds
+- Reduce image size
+- binding ports to container
+- push image to registry
+- settting container limits 
+- Why do we need docker in docker
+- installing docker in the container of ocntainers 
+- Create docker networks 
+- Exposing container ports between containers 
+- Disable networking with none driver 
+- Creating docker volumes
+- Creating bind mounts 
+- Best practises
+- Docker compose
